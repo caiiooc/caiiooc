@@ -3,7 +3,7 @@
 🎓 Estudante de **Ciência da Computação** na Universidade Presbiteriana Mackenzie  
 💻 Interessado em **Desenvolvimento de Software, Redes e Cybersecurity**  
 🔐 Membro da **Liga Macksec — Cybersecurity**  
-📍 Osasco, São Paulo — Brasil
+📍 Osasco, São Paulo - Brasil
 
 ---
 
