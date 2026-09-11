@@ -56,7 +56,7 @@ Universidade Presbiteriana Mackenzie — São Paulo, SP
 **5º semestre**  
 Previsão de conclusão: **Julho de 2028**
 
-🔐 **Liga Macksec — Cybersecurity**
+🔐 **Liga Macksec - Cybersecurity**
 
 ---
 
@@ -65,7 +65,7 @@ Previsão de conclusão: **Julho de 2028**
 🐍 **PCAP: Programming Essentials in Python**  
 Cisco Networking Academy
 
-🌐 **5G — Conceitos Básicos de Redes**  
+🌐 **5G - Conceitos Básicos de Redes**  
 Cisco Networking Academy
 
 ---
