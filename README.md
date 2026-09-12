@@ -30,7 +30,7 @@ novas tecnologias e aprimorar meus conhecimentos.
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-E61B23?style=for-the-badge&logoColor=white)
-![Assembly MIPS](https://img.shields.io/badge/-Assembly-000?&logo=assemblyscript)
+![Assembly MIPS](https://img.shields.io/badge/Assembly%20MIPS-000?style=for-the-badge&logo=assemblyscript&logoColor=white)
 
 ### 🌐 Web & Banco de Dados
 
